@@ -22,4 +22,4 @@ Python (Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark), SQL, R, Tableau, DB
 
 ## My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChethanKarunakara&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jChethanKarunakara&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanKarunakara&theme=tokyonight)
