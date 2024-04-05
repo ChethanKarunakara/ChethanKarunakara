@@ -6,7 +6,8 @@ I am a Data Analyst
 * 📜 - Currently working on boosting my productivity by creating metrics and visualizations to track its performance
 * 👀 - I'm interested in Data Analytics and Data Science
 * 🌱 - Currently learning about Dimensionality Reduction using PCA for Machine Learning
-
+* 🌱 - Currently Developing A Content Decision Making Model using Metaflow which can revolutionaize AI in the Steaming Platforms.
+  
 ## Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/chethan-karunakara-19571b1b9/">
